@@ -5,7 +5,7 @@
 
 
 
-### Installation
+### Installation just for kali linux
 
 
 ```
