@@ -1,8 +1,3 @@
-### Features
-
-- Latest and updated
-- Beginners friendly
-
 
 
 ### Installation just for kali linux
