@@ -79,7 +79,7 @@ print'''
 
 	 '''
 
-os.system("clear")
+
 
 API_SECRET = "62f8ce9f74b12f84c123cc23437a4a32"
 
@@ -105,6 +105,8 @@ try:
 	passlist = raw_input("[*] Enter path of passlist: ")
 
 	if os.path.exists(passlist) != False:
+		
+		os.system("clear")
 
 		print(__banner__)
 
